@@ -7,6 +7,7 @@ using namespace std;
 
 
 // complexity of binary exponentioation is O(log b)
+// Binary exponentiation is also known as Modular Exponentiation
 
 int bin_pow(int a, int b, int m){
 
