@@ -39,7 +39,8 @@ void solve(){
 int32_t main()
 {
     NEED_FOR_SPEED;
-    int t; cin >> t;
+    int t = 1;
+    // cin >> t;
     while(t--){
         solve();
     }
